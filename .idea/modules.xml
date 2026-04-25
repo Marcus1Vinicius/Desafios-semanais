@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Desafios.iml" filepath="$PROJECT_DIR$/Desafios/Desafios.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Desafios de programação.iml" filepath="$PROJECT_DIR$/.idea/Desafios de programação.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FormularioInteligente/FormularioInteligente.iml" filepath="$PROJECT_DIR$/FormularioInteligente/FormularioInteligente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadora/calculadora.iml" filepath="$PROJECT_DIR$/calculadora/calculadora.iml" />
     </modules>
   </component>
 </project>
