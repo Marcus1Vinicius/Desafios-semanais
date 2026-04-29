@@ -5,11 +5,11 @@ public class Client {
     private Cpf cpf;
     private Email email;
     private Phone phone;
-    private String adress;
+    private Adress adress;
     private String rg;
     private String workCard;
-    private Paycheck paycheck; // last six month
+    private String paycheck; // last six month
     private Boolean haveDepent;
     private String newInformation;
-    private String newFile;
+    private NewFile newFile;
 }
