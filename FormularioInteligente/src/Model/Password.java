@@ -3,6 +3,8 @@ package Model;
 public class Password {
     String password;
 
+    protected Password(){}
+
     public String checkPassword(String passwordInput){
 
         if(!validatePassword(passwordInput)){

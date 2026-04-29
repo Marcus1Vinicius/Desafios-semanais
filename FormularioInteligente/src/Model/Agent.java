@@ -1,10 +1,12 @@
 package Model;
 
 public class Agent {
-    private String name;
-    private Email email;
-    private Phone phone;
-    private Password password;
-    private String photo;
+    private
+     String name;
+    String username;
+     Email email;
+     Phone phone;
+     Password password;
+     String photo;
 
 }
